@@ -7,3 +7,4 @@ statsmodels
 pmdarima
 scipy
 plotly
+openpyxl
